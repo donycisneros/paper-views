@@ -1,6 +1,11 @@
 {
   "name": "paper-views",
   "version": "0.1.0",
+  "author": {
+    "name" : "Dony Cisneros",
+    "email" : "dony.cisne@gmail.com",
+    "url" : "https://www.donycisneros.com/"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
